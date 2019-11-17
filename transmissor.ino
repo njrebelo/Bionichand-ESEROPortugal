@@ -15,7 +15,7 @@
 RF24 radio(7, 8); // Pins CE e CSN usados na comunicacão rádio
 const byte address[6] = "00001";//Cana de comunicação
 
-const char finger[] = {A0,A1,A2,A3,A4}; // Portas usadas para a leitura das resistências
+char *finger[5] = {"A0","A1","A2","A3","A4"}; // Portas usadas para a leitura das resistências
 int m_angle0[100],m_angle1[100],m_angle2[100],m_angle3[100],m_angle4[100];//Matrizes para a configuração dos dedos
 int min_angle[5],max_angle[5];//Matriz com os valores maximos e mínimos para cada dedo
 int angle0,angle1,angle2,angle3,angle4; // Variáveis que vão enviar a informação
