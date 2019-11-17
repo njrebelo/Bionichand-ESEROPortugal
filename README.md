@@ -24,7 +24,7 @@ Podem usar outro forncedor, e podem também utilizar outros sensores, este é s�
 
 ### Luva
 Esta é a nossa luva
-(https://imgur.com/lRJcfVv)
+![alt text](https://imgur.com/lRJcfVv)
 
 ### Modelo 3D
 Para a modelação 3D baseamo-nos no projeto [InMoov](http://inmoov.fr/hand-and-forarm/), um projeto internacional para a modelação do corpo humano
