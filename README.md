@@ -26,11 +26,19 @@ Podem usar outro forncedor, e podem também utilizar outros sensores, este é s�
 Esta é a nossa luva
 ![alt text](https://i.imgur.com/lRJcfVv.jpg)
 
+
+Basicamente, temos um divisor de tensão em cada dedo. Usamos duas resistências, uma fixa, e uma variável ( o nosso flexo sensor), e elas são dispostas desta maneira.
+![alt text](https://bildr.org/blog/wp-content/uploads/2012/11/flex-sensor-arduino.png)
+
 ### Modelo 3D
 Para a modelação 3D baseamo-nos no projeto [InMoov](http://inmoov.fr/hand-and-forarm/), um projeto internacional para a modelação do corpo humano
 Nesse link podem encontrar o modelo 3D que usamos, e instruções para a sua impressão.
 Esta é a nossa mão.
 ![alt text](https://i.imgur.com/PUOArFu.jpg)
+
+
+Ela consiste basicamente em 5 servos controlados pelo arduino nano.
+![alt text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjNq4eaufLlAhXs6eAKHQDTDjEQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.ozeki.hu%2Findex.php%3Fowpn%3D3056&psig=AOvVaw34TvZHDq5kpoWaA5bHqlSr&ust=1574121360183353)
 
 
 ## Empréstimo
