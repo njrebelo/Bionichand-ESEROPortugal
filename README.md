@@ -38,7 +38,7 @@ Esta é a nossa mão.
 
 
 Ela consiste basicamente em 5 servos controlados pelo arduino nano.
-![alt text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjYocHXufLlAhUi5uAKHdW4DZ8QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.arduino.cc%2Fen%2Ftutorial%2Fsweep&psig=AOvVaw3xnnfvbHxXo93djRDLfqau&ust=1574121495719473)
+![alt text](https://www.arduino.cc/en/uploads/Tutorial/sweep_bb.png)
 
 
 ## Empréstimo
