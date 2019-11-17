@@ -7,12 +7,20 @@ O nosso esforço exprime-se em criar esta e outras ferramentas educacionais. A i
 Na sua utilização fundamental, as escolas vão poder receber a luva e a mão a desempenhar as suas funções básicas. Desde que as ligações elétricas estejam bem feitas, danificar a mão ou a luva, é quase impossível. Por isso a nossa primeira sugestão é a de deixarem os vossos alunos explorarem
 
 ## Sensores
-Arduino Nano - 
+Arduino Nano - [PTRobotics](https://www.ptrobotics.com/plataformaarduino-e-modelos-alternativos-equivalentes/5458-iteaduino-mini-nano-v30-atmega328-board-for-arduino-ide-arduino-compatible.html?search_query=nano&results=41)
+Sensor de Flexão - [PTRobotics](https://www.ptrobotics.com/sensores-forca-vibracao-e-pressao/1060-flex-sensor-22.html?search_query=forca&results=21)
+Transmissor - [PTRobotics](https://www.ptrobotics.com/nordic-nrf24/5476-1100-meter-long-distance-nrf24l01palna-wireless-module-with-antenna.html?search_query=NRF24L01&results=23)
+Receptor - [PTRobotics](https://www.ptrobotics.com/nordic-nrf24/5965-nrf24l01-rf-board.html?search_query=NRF24L01&results=23)
+Adaptador - [PTRobotics](https://www.ptrobotics.com/nordic-nrf24/6081-socket-adapter-for-8pin-nrf24l01-wireless-transceivers.html?search_query=NRF24L01&results=23)
+Servos - [PTRobotics](https://www.ptrobotics.com/servo/2398-standard-analogue-servo-bms-410c.html?search_query=servo&results=174)
+
+
 ## Empréstimo
 
 ```
-O empréstimo do equipamento deverá ficar disponível apartir de Janeiro de 2020 na página da [ESERO Portugal](https://www.esero.pt/454/emprestimos/)
-Para mais informações podem entrar em contacto connosco [aqui](https://www.esero.pt/280/contactos/){:target="_blank"}
+O empréstimo do equipamento deverá ficar disponível 
+apartir de Janeiro de 2020 na página da [ESERO Portugal](https://www.esero.pt/454/emprestimos/)
+Para mais informações podem entrar em contacto connosco [aqui](https://www.esero.pt/280/contactos/)
 ```
 
 
