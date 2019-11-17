@@ -7,7 +7,8 @@ O nosso esforço exprime-se em criar esta e outras ferramentas educacionais. A i
 Na sua utilização fundamental, as escolas vão poder receber a luva e a mão a desempenhar as suas funções básicas. Desde que as ligações elétricas estejam bem feitas, danificar a mão ou a luva, é quase impossível. Por isso a nossa primeira sugestão é a de deixarem os vossos alunos explorarem
 
 
-##Empréstimo
+## Empréstimo
+
 '''
 oi
 '''
