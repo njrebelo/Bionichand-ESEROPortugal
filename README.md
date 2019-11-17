@@ -23,12 +23,8 @@ Na sua utilização fundamental, as escolas vão poder receber a luva e a mão a
 Podem usar outro forncedor, e podem também utilizar outros sensores, este é só o nosso exemplo.
 
 ## Empréstimo
-
-```
-O empréstimo do equipamento deverá ficar disponível 
-apartir de Janeiro de 2020 na página da [ESERO Portugal](https://www.esero.pt/454/emprestimos/)
+O empréstimo do equipamento deverá ficar disponível apartir de Janeiro de 2020 na página da [ESERO Portugal](https://www.esero.pt/454/emprestimos/)
 Para mais informações podem entrar em contacto connosco [aqui](https://www.esero.pt/280/contactos/)
-```
 
 
 
