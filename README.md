@@ -16,6 +16,7 @@ Receptor.ino - Mão Bionica
 
 Transmissor.ino - Luva
 ```
+Todo o cógio está comentado para ser perceptivel a qualquer utilizador
 
 ### Sensores
 > Arduino Nano - 2 uni -  [PTRobotics](https://www.ptrobotics.com/plataformaarduino-e-modelos-alternativos-equivalentes/5458-iteaduino-mini-nano-v30-atmega328-board-for-arduino-ide-arduino-compatible.html?search_query=nano&results=41)
