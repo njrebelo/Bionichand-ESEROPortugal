@@ -22,7 +22,8 @@ int angle0,angle1,angle2,angle3,angle4; // Variáveis que vão enviar a informa�
 
 void setup() {
   Serial.begin(9600);//Iniciar porta série
-  
+
+  pinMode(LED_BUILTIN, OUTPUT);//Vamos usar o led do arduino para configuração
   pinMode(finger[0], INPUT);//Declara os pins das resistências como de input
   pinMode(finger[1], INPUT);
   pinMode(finger[2], INPUT);
@@ -36,6 +37,7 @@ void setup() {
 
   /* configuração luva - leva sensivelmente 2 minutos*/
   Serial.println("Iniciando configuração");
+  digitalWrite(LED_BUILTIN, HIGH);//informa-nos que a configuração começou
   for(int i=0; i<100; i++){//Vamos fazer várias medições do valor das resistências, a pessoa deve abrir e fechar a mão repetidamente
     m_angle0[i]=analogRead(finger[0]);
     m_angle1[i]=analogRead(finger[1]);
@@ -55,6 +57,8 @@ void setup() {
   max_angle[2]=getMax(m_angle2,100);
   max_angle[3]=getMax(m_angle3,100);
   max_angle[4]=getMax(m_angle4,100);
+  
+  digitalWrite(LED_BUILTIN, LOW);//informa-nos que a configuraçção acabou
   
 }
 void loop() {
