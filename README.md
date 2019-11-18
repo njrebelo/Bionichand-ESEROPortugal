@@ -20,7 +20,7 @@ Transmissor.ino - Luva
 ### Sensores
 > Arduino Nano - 2 uni -  [PTRobotics](https://www.ptrobotics.com/plataformaarduino-e-modelos-alternativos-equivalentes/5458-iteaduino-mini-nano-v30-atmega328-board-for-arduino-ide-arduino-compatible.html?search_query=nano&results=41)
 
-> Sensor de Flexão - 5 uni - [PTRobotics](https://www.ptrobotics.com/sensores-forca-vibracao-e-pressao/1060-flex-sensor-22.html?search_query=forca&results=21)
+> Sensor de Flexão - 5 uni - [PTRobotics](https://www.ptrobotics.com/sensores-forca-vibracao-e-pressao/1060-flex-sensor-22.html?search_query=forca&results=21) - Deixamo-vos uma [alternativa](https://www.youtube.com/watch?v=b7zT94WV-Ek)
 
 > Transmissor - 1 uni - [PTRobotics](https://www.ptrobotics.com/nordic-nrf24/5476-1100-meter-long-distance-nrf24l01palna-wireless-module-with-antenna.html?search_query=NRF24L01&results=23)
 
