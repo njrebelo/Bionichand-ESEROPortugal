@@ -8,6 +8,15 @@ Na sua utilização fundamental, as escolas vão poder receber a luva e a mão a
 
 Esta foi a apresentação fornecida no workshop, da 6º Conferência dos Professores Espaciais:[Powerpoint.ppt](https://github.com/njrebelo/Bionichand-ESEROPortugal/raw/master/powerpoint.pptx)
 
+### Códigos
+Em cima podem encontrar uma lista de ficheiros, de entre os quais os código para a mão e para a luva.
+```
+Receptor.ino - Mão Bionica
+
+
+Transmissor.ino - Luva
+```
+
 ### Sensores
 > Arduino Nano - 2 uni -  [PTRobotics](https://www.ptrobotics.com/plataformaarduino-e-modelos-alternativos-equivalentes/5458-iteaduino-mini-nano-v30-atmega328-board-for-arduino-ide-arduino-compatible.html?search_query=nano&results=41)
 
