@@ -51,6 +51,8 @@ Esta é a nossa mão.
 Ela consiste basicamente em 5 servos controlados pelo arduino nano.
 ![alt text](https://www.arduino.cc/en/uploads/Tutorial/sweep_bb.png)
 
+InMoov. ![alt text](https://http2.mlstatic.com/braco-robotico-kit-para-rob-inmoov-p-arduino-D_NQ_NP_880692-MLB29899095718_042019-O.webp)
+
 
 ### Comunicação
 Para a comunicação usamos o sensor que listamos em cima, mas podem fazêlo co recursoa outro sensor, ou até mesmo com outro tipo de comunicação, Bluetooth, GSM...
