@@ -63,3 +63,7 @@ Este é o sensor que usamos, quer na luva, quer na mão.
 ## Empréstimo
 O empréstimo do equipamento deverá ficar disponível apartir de Janeiro de 2020 na página da [ESERO Portugal](https://www.esero.pt/454/emprestimos/)
 Para mais informações podem entrar em contacto connosco [aqui](https://www.esero.pt/280/contactos/)
+
+
+
+@Nelson Rebelo  @João Campos  @Pedro Coimbra  @ESEROPortugal
