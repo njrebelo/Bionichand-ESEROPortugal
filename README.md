@@ -65,5 +65,5 @@ O empréstimo do equipamento deverá ficar disponível apartir de Janeiro de 202
 Para mais informações podem entrar em contacto connosco [aqui](https://www.esero.pt/280/contactos/)
 
 
-
+###
 @Nelson Rebelo  @João Campos  @Pedro Coimbra  @ESEROPortugal
