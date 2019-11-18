@@ -6,6 +6,8 @@ O nosso esforço exprime-se em criar esta e outras ferramentas educacionais. A i
 
 Na sua utilização fundamental, as escolas vão poder receber a luva e a mão a desempenhar as suas funções básicas. Desde que as ligações elétricas estejam bem feitas, danificar a mão ou a luva, é quase impossível. Por isso a nossa primeira sugestão é a de deixarem os vossos alunos explorarem
 
+Esta foi a apresentação fornecida no workshop, da 6º Conferência dos Professores Espaciais:[Powerpoint.ppt](https://github.com/njrebelo/Bionichand-ESEROPortugal/raw/master/powerpoint.pptx)
+
 ### Sensores
 > Arduino Nano - 2 uni -  [PTRobotics](https://www.ptrobotics.com/plataformaarduino-e-modelos-alternativos-equivalentes/5458-iteaduino-mini-nano-v30-atmega328-board-for-arduino-ide-arduino-compatible.html?search_query=nano&results=41)
 
