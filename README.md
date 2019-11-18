@@ -15,7 +15,7 @@ Na sua utilização fundamental, as escolas vão poder receber a luva e a mão a
 
 > Receptor - 1 uni - [PTRobotics](https://www.ptrobotics.com/nordic-nrf24/5965-nrf24l01-rf-board.html?search_query=NRF24L01&results=23)
 
-> Adaptador - 1 uni - [PTRobotics](https://www.ptrobotics.com/nordic-nrf24/6081-socket-adapter-for-8pin-nrf24l01-wireless-transceivers.html?search_query=NRF24L01&results=23)
+> Adaptador - 2 uni (para podermos ligar aos 5volt) - [PTRobotics](https://www.ptrobotics.com/nordic-nrf24/6081-socket-adapter-for-8pin-nrf24l01-wireless-transceivers.html?search_query=NRF24L01&results=23)
 
 > Servos - 1 uni - [PTRobotics](https://www.ptrobotics.com/servo/2398-standard-analogue-servo-bms-410c.html?search_query=servo&results=174)
 
@@ -40,6 +40,11 @@ Esta é a nossa mão.
 Ela consiste basicamente em 5 servos controlados pelo arduino nano.
 ![alt text](https://www.arduino.cc/en/uploads/Tutorial/sweep_bb.png)
 
+
+### Comunicação
+Para a comunicação usamos o sensor que listamos em cima, mas podem fazêlo co recursoa outro sensor, ou até mesmo com outro tipo de comunicação, Bluetooth, GSM...
+Este é o sensor que usamos, quer na luva, quer na mão.
+![alt text](https://i.imgur.com/8d4WDpB.jpg)
 
 ## Empréstimo
 O empréstimo do equipamento deverá ficar disponível apartir de Janeiro de 2020 na página da [ESERO Portugal](https://www.esero.pt/454/emprestimos/)
